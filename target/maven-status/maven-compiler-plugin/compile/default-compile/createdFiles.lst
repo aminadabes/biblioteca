@@ -1,0 +1,5 @@
+com/aminadabes/biblioteca/model/Book.class
+com/aminadabes/biblioteca/BibliotecaApplication.class
+com/aminadabes/biblioteca/resource/BookResource.class
+com/aminadabes/biblioteca/model/Customer.class
+com/aminadabes/biblioteca/repository/BookRepository.class
