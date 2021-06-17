@@ -8,9 +8,8 @@ Estou fazendo esse pequeno projeto chamado de Biblioteca, para além de aprender
 * JPA/Hibernate
 * Docker
 * Mysql dentro do docker
-* PostgreSQL instaldo na maquina
+* PostgreSQL instalado na maquina
 
-Porque dois SGDBs? Para treino jovem...
 
 Aqui na minha máquina rodou. Agora quero integrar para salvar nos dois banco ao mesmo tempo, se isto é possível ainda não sei...
  
